@@ -1,0 +1,6 @@
+# Ignore files related to API keys
+dbkeys.json
+CoA draft.xlsx
+coa.csv
+test data.csv
+venv/
